@@ -13,4 +13,4 @@ The Orange Line is the prediction made by the model.
 Very basic model just made for some data encoding practice, as the data that is available is categorical data.
 Just wanted to implement Label Encoding on each of the categorical faetures.
 
-It is Simple Machine Learning! 
+It is Simple Machine  Learning! Easy to understand if you are new.
